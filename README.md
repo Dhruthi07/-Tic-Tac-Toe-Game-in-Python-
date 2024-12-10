@@ -1,4 +1,4 @@
-# -Tic-Tac-Toe-Game-in-Python-
+Tic-Tac-Toe-Game-in-Python
 This Tic Tac Toe project in Python is a beginner-friendly implementation of the classic game, focusing on procedural programming. It includes three modes: Player vs. Player, Player vs. Computer, and Computer vs. Computer. Players or the AI take turns placing their symbols (X or O) on a 3x3 grid, and the winner is determined by matching rows, columns, or diagonals.
 
 Key highlights:
